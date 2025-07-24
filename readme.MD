@@ -1,5 +1,6 @@
 # 🩺 Medical Report Chatbot
-![](Screenshot 2025-07-24 at 10.01.24 PM.png)
+![Screenshot](images/Screenshot-2025-07-24-at-10.01.24-PM.png)
+
 
 An **AI-powered chatbot** that can read medical PDF reports and answer questions based on their content.  
 Built using **Streamlit**, **ChromaDB**, **SentenceTransformers**, and **LLaMA 3** running locally via **Ollama**.
