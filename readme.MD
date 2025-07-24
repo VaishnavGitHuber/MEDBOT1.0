@@ -1,5 +1,5 @@
 # 🩺 Medical Report Chatbot
-![Screenshot](images/Screenshot-2025-07-24-at-10.01.24-PM.png)
+![Screenshot](Screenshot-2025-07-24-at-10.01.24-PM.png)
 
 
 An **AI-powered chatbot** that can read medical PDF reports and answer questions based on their content.  
